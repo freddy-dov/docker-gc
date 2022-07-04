@@ -1,6 +1,7 @@
 # docker-gc
  
  task: 
+  Write an application that is able to prune docker images that are older than X minutes, but keeping the last three versions (tags) of the image. Please use the Docker API (eg. https://docker-py.readthedocs.io/en/stable/ ), do not shell out to docker on command line.
  
  solution:
  wrote simple python script which do next:
