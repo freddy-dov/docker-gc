@@ -3,7 +3,7 @@
  task: 
  
  solution:
- wrote simp[le python script which do next:
+ wrote simple python script which do next:
  - get all repos via DockerAPI
  - for each repo get all images
  - get image creation date --> compare --> delete if image old
